@@ -1,0 +1,8 @@
+title : Shukrity
+logo : assets/image/profile_pic.png
+#desciption : Power BI project to list Top Youtubers to improve marketing
+show_downloads : True
+remote_theme : pages-themes/minimal@v0.2.0
+plugins : 
+- jekyll-remote-theme
+github_username : ShukCh
