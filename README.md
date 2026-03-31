@@ -316,7 +316,7 @@ HAVING COUNT(channel_name) > 1;
 
 ### Results
 
-![Power BI Dashboard](assets/images/Dashboard_Vid.mp4)
+![Power BI Dashboard](assets/images/Dashboard_Vid.gif)
 
 The dashboard provides an at-a-glance view of the Top UK YouTubers, with dynamic filtering across all key metrics.
 
