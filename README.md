@@ -290,7 +290,7 @@ WHERE
     AND TABLE_SCHEMA = 'dbo'; 
 ```
 
-![Data type check](assets/images/Column_Type_check.png)
+![Data type check](assets/images/Column_Type_Check.png)
 
 ---
 
